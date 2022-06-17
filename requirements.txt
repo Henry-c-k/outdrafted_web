@@ -50,7 +50,6 @@ pyasn1-modules==0.2.8
 pyls-spyder==0.4.0
 PyQt5==5.12
 PyQt5-Qt5==5.15.2
-PyQt5_sip==4.19.19
 PyQtWebEngine==5.12
 python-lsp-jsonrpc==1.0.0
 python-lsp-server==1.2.4
