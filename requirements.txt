@@ -1,6 +1,5 @@
 absl-py==1.0.0
 appdirs==1.4.4
-arrow==1.2.2
 astunparse==1.6.3
 atomicwrites==1.4.0
 black==19.10b0
